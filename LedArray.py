@@ -1,6 +1,6 @@
-# led_array.py
-#  Usage : import led_array
-# 
+# LedArray.py
+#  Usage : import LedArray
+#
 # 以下は初期プロンプトです
 # 同じディレクトリにある aled.py を参考にして次の機能を実装
 # led_run() を別プロセスで実行
