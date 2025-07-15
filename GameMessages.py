@@ -1,4 +1,6 @@
-# pico switch messenger
+# GameMessages.py
+#  Usage : import GameMessages
+# Micropython implementation for handling game messages and button inputs
 
 from machine import Pin
 import time
